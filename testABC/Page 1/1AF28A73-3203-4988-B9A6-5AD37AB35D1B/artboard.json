@@ -1,0 +1,87 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "25E23110-3B32-4DDD-9C5E-B0087627B2B2",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "1AF28A73-3203-4988-B9A6-5AD37AB35D1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EEE46503-2993-4DE1-A75F-CC4C742E3AEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E5E00D9-67DF-4E95-8E79-6B61CDAB6F19",
+    "height": 650,
+    "width": 790,
+    "x": 1780,
+    "y": -159
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "029CE422-9E07-4E2F-8167-5F305C185E93",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D7D80993-4F94-4530-9409-A12955B7C227"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC26A834-C194-4892-8866-24C9677E4DBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "957FFD8B-EAA2-4856-B155-644D5FEB3EEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "623DE2F6-215D-4825-A643-DC09643E2860"
+    }
+  ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4367E32-8891-452F-9EA8-82F23B5355EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DCE038F1-DA8B-4EAA-8E01-097F04AE2079",
+    "guides": [
+    ]
+  }
+}

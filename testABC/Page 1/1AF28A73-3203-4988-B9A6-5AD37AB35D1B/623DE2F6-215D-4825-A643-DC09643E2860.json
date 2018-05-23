@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "623DE2F6-215D-4825-A643-DC09643E2860",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89A32C43-C745-4AEB-A015-C1A0BA52227A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4B4DA1C-68B5-4B97-B327-DEFADB1B01CE",
+    "height": 375,
+    "width": 383,
+    "x": 320,
+    "y": 63
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF6953DD-0B7D-4A3A-BB1A-6D8A1DD59679",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "04C18E1F-CF09-4A9F-B700-51AA20D5978F",
+  "verticalSpacing": 0
+}
